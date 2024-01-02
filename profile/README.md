@@ -22,4 +22,8 @@ Repository del progetto "Car Share Connect". Qui troverete il codice sorgente, l
 - **Adrian Durak**
 - **Tommaso Travaglia**
 
+# Video Dimostrativo (Youtube)
+
+[![Video Dimostrativo](https://img.youtube.com/vi/8B6WkSnFn_s/0.jpg)](https://www.youtube.com/watch?v=8B6WkSnFn_s)
+
 Per ulteriori informazioni sui progetti e sui partecipanti, visitate le repository specifiche.
